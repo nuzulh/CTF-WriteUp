@@ -14,7 +14,7 @@ Who doesn't love cookies? Try to figure out the best one.
 
 Berikut tampilan awal web.
 
-(tampilan-web.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Cookies/tampilan-web.png)
 
 Dijelaskan bahwa autor sangat suka kue (cookie), kira-kira seberapa banyak jenis kue yang disukai beliau?
 Dari sini, kita dapat petunjuk yang pasti bahwa ada lebih dari 1 jenis cookie yang valid.
