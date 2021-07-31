@@ -33,7 +33,7 @@ Sekarang saatnya membuka alat tempur BurpSuite untuk memanipulasi header. Disini
 
 Dan, hasilnya:
 
-(berhasil.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Cookies/berhasil.png)
 
 Setelah berhasil mendapatkan 1 kue kesukaan autor, maka kita akan mencari kue-kue lainnya dengan cepat menggunakan BurpSuite.
 
