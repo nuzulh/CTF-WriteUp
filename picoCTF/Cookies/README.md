@@ -1,9 +1,9 @@
 
 # Cookies
-* Category: Web Exploitation *
-** URL **
+*Category: Web Exploitation*
+**URL**
 http://mercury.picoctf.net:54219/
-** Desciption **
+**Desciption**
 Who doesn't love cookies? Try to figure out the best one. 
-** SOLUTION **
+**SOLUTION**
 bla bla bla
