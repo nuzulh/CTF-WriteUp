@@ -29,7 +29,7 @@ Cookie: name=-1
 
 Sekarang saatnya membuka alat tempur BurpSuite untuk memanipulasi header. Disini kita mencoba mengubah value name dari '-1' menjadi '1'.
 
-(ubah-name.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Cookies/ubah-name.png)
 
 Dan, hasilnya:
 
@@ -39,7 +39,7 @@ Setelah berhasil mendapatkan 1 kue kesukaan autor, maka kita akan mencari kue-ku
 
 Tambahkan dulu hasil respon di HTTP History tadi ke Intruder, dan pada position, tandakan bagian value dari name sebagai parameter untuk di attack:
 
-(position.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Cookies/position.png)
 
 Lalu, kita coba create 100 angka dulu untuk parameternya dengan Python3:
 
@@ -55,17 +55,17 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 copy hasil print tersebut, lalu paste ke Payload Options:
 
-(payload-options.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Cookies/payload-options.png)
 
 Klik start attack, lalu tunggu, hirrup qalem sampai ada sebuah respon yang janggal.
 
 Pada request ke 19 dengan payload 18 terdapat kejanggalan, dimana length dari respon yang diberikan sangat berbeda yaitu lebih sedikit sekitar setengah dari length pada respon dari payload lainnya.
 
-(length-janggal.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Cookies/length-janggal.png)
 
 Dan, inilah flag nya:
 
-(flag.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Cookies/flag.png)
 
 picoCTF{3v3ry1_l0v3s_c00k135_96cdadfd}
 
