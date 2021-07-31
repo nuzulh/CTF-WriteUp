@@ -27,8 +27,6 @@ Tentu saja tidak lupa sambil membuka inspeq elementz, di bagian network, kita me
 Cookie: name=-1
 ```
 
-Setelah mendapat petunjuk bahwa pada Request Header terdapat Cookie yang isinya ada key 'name' dengan value '-1'.
-
 Sekarang saatnya membuka alat tempur BurpSuite untuk memanipulasi header. Disini kita mencoba mengubah value name dari '-1' menjadi '1'.
 
 (ubah-name.png)
