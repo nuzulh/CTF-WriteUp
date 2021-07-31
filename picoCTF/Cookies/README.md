@@ -10,6 +10,7 @@ http://mercury.picoctf.net:54219/
 
 Who doesn't love cookies? Try to figure out the best one. 
 
-**SOLUTION**
+**Solution**
 
-bla bla bla
+Karena deskripsinya dijelasin tentang 'Cookies', tentu saja diawali dengan inspek elemendz.
+
