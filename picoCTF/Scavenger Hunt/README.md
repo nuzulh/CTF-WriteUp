@@ -18,27 +18,27 @@ You should have enough hints to find the files, don't run a brute forcer.
 
 Mari kita mulai dengan inspek elemendz. Pada source code HTML dapat bagian pertama flag:
 
-(html.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Scavenger%20Hunt/html.png)
 
 Lanjut lihat source code CSS dan dapat bagian kedua flag:
 
-(css.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Scavenger%20Hunt/css.png)
 
 Lanjut ke JS:
 
-(js.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Scavenger%20Hunt/js.png)
 
 Disini, kita dapat sebuah petunjuk yang berkaitan dengan google indexing, tentu saja robots.txt adalah file yang biasa digunakan pada kebanyakan website untuk lalu lintas web.
 
 Dan robots.txt *harus* berada di root path pada website. Langsung saja kita coba buka http://mercury.picoctf.net:5080/robots.txt.
 
-(robots.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Scavenger%20Hunt/robots.png)
 
 Mantap, dapat flag part ketiga.
 
 Lanjut, pada robots.txt tadi diberikan petunjuk bahwa web ini menggunakan apache sebagai http servernya dimana apache menggunakan file configurasi *.htaccess*. Langsung saja eksekusi:
 
-(htaccess.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Scavenger%20Hunt/htaccess.png)
 
 Petunjuk yang diberikan selanjutnya adalah pembuat web suka membuat sebuah web di *Mac*.
 
@@ -46,7 +46,7 @@ Setelah menganalisis tentang Mac beberapa menit, akhirnya kita dapat sebuah info
 
 Lalu, kita coba membuka http://mercury.picoctf.net:5080/.DS_Store.
 
-(DS_Store.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Scavenger%20Hunt/DS_Store.png)
 
 picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_35844447}
 
