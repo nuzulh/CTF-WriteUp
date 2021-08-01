@@ -50,4 +50,4 @@ Lalu, kita coba membuka http://mercury.picoctf.net:5080/.DS_Store.
 
 picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_35844447}
 
-![alt text](https://tenor.com/JiWe.gif)
+![alt text](https://media1.tenor.com/images/bb6aa5121851f1b57a2cb50f73005c66/tenor.gif)
