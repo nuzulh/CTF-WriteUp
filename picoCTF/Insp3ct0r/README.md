@@ -10,7 +10,7 @@ http://jupiter.challenges.picoctf.org:41511
 
 Kishor Balan tipped us off that the following code may need inspection: (URL above)
 
-**- HINT**
+**- Hint**
 
 *1. How do you inspect web code on a browser?*
 
