@@ -40,7 +40,7 @@ Lanjut, pada robots.txt tadi diberikan petunjuk bahwa web ini menggunakan apache
 
 ![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Scavenger%20Hunt/htaccess.png)
 
-Petunjuk yang diberikan selanjutnya adalah pembuat web suka membuat sebuah web di *Mac*.
+Petunjuk yang diberikan selanjutnya adalah pembuat web suka membuat sebuah situs web di *Mac*.
 
 Setelah menganalisis tentang Mac beberapa menit, akhirnya kita dapat sebuah info dimana di setiap direktori pada MAC OS terdapat file *.DS_Store* sebagai informasi dari MAC OS untuk direktori tersebut yang tersembunyi.
 
