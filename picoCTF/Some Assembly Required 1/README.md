@@ -18,7 +18,7 @@ Setelah mencoba inspect web tersebut, terdapat sebuah file js bernama *G82XCw5CX
 
 Script js tersebut tertulis dengan cara yang aneh walaupun telah di-beautify. Karena malas membaca source code tersebut, kita coba lihat-lihat dulu lalu lintas networknya, siapa tau ada kecelakaan disana.
 
-![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Some%20Assembly%20Required%201/network-get.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Some%20Assembly%20Required%201/respons-aneh.png)
 
 Nah, disini web server memberi respons berbentuk file dengan nama *JIFxzHyW8W*.
 
