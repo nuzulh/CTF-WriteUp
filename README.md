@@ -1,3 +1,3 @@
 # CTF-WriteUp
 
-just some ctf things.
+just some ctf (capture the flag) things.
