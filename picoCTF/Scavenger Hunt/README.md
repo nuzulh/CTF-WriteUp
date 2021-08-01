@@ -42,7 +42,7 @@ Lanjut, pada robots.txt tadi diberikan petunjuk bahwa web ini menggunakan apache
 
 Petunjuk yang diberikan selanjutnya adalah pembuat web suka membuat sebuah web di *Mac*.
 
-Setelah menganalisis tentang Mac beberapa menit, akhirnya kita dapat sebuah info yang penting, yaitu di setiap direktori pada MAC OS terdapat file *.DS_Store* sebagai informasi dari MAC OS untuk direktori tersebut yang tersembunyi.
+Setelah menganalisis tentang Mac beberapa menit, akhirnya kita dapat sebuah info dimana di setiap direktori pada MAC OS terdapat file *.DS_Store* sebagai informasi dari MAC OS untuk direktori tersebut yang tersembunyi.
 
 Lalu, kita coba membuka http://mercury.picoctf.net:5080/.DS_Store.
 
