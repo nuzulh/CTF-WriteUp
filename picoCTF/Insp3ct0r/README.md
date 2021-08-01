@@ -22,7 +22,7 @@ Karena kali ini berkaitan dengan inspect, maka membuka inspeqk elemendt pada web
 
 Pada source code HTML nya pun terdapat bagian pertama flag:
 
-![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Insp3ct0r/js.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Insp3ct0r/html.png)
 
 Karena pemilik website menulis bahwa cara dia bikin web ini dengan '3' bahasa (html, css, js), kita menduga bahwa pesan itu berkaitan dengan *hint* poin ke 2.
 
@@ -30,13 +30,13 @@ Karena pemilik website menulis bahwa cara dia bikin web ini dengan '3' bahasa (h
 
 Setelah periksa HTML web dan mendapatkan bagian pertama flag, maka lanjut ke source code css:
 
-![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Insp3ct0r/js.png)css.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Insp3ct0r/css.png)
 
 Dapat bagian kedua :)
 
 Lanjut ke js:
 
-![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Insp3ct0r/js.png)js.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Insp3ct0r/js.png)
 
 Done.
 
