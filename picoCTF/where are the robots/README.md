@@ -18,7 +18,7 @@ What part of the website could tell you where the creator doesn't want you to lo
 
 Tanpa berlama-lama, langsung gas ke (url)/robots.txt sebagaimana deskrispi dan judul challenge.
 
-(robots.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/where%20are%20the%20robots/robots.png)
 
 Benar saja, file tersebut tersedia, isinya adalah:
 
@@ -29,7 +29,7 @@ Disallow: /477ce.html
 
 Berdasarkan *hint*, kita harus menuju ke (url)/477ce.html, karena halaman tersebut kemungkinan adalah yang dimaksud *hint*.
 
-(flag.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/where%20are%20the%20robots/flag.png)
 
 picoCTF{ca1cu1at1ng_Mach1n3s_477ce}
 
