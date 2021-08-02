@@ -16,9 +16,11 @@ What part of the website could tell you where the creator doesn't want you to lo
 
 **- Solution**
 
-Tanpa berlama-lama, langsung gas ke (url)/robots.txt sebagaimana deskrispi dan judul challenge.
+Tampilan awal web:
 
 ![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/where%20are%20the%20robots/robots.png)
+
+Tanpa berlama-lama, langsung gas ke (url)/robots.txt sebagaimana deskrispi dan judul challenge.
 
 Benar saja, file tersebut tersedia, isinya adalah:
 
