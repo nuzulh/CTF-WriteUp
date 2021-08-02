@@ -12,7 +12,7 @@ ga ada
 
 **- Solution**
 
-Setelah mencoba inspect web tersebut, terdapat sebuah file js bernama *G82XCw5CX3.js*.
+Setelah mencoba inspect web tersebut, terdapat sebuah file js yang mencurigakan bernama *G82XCw5CX3.js*.
 
 ![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/Some%20Assembly%20Required%201/beautify.png)
 
