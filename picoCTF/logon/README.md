@@ -20,15 +20,15 @@ Pertama-tama dan yang paling utama, cek lalu lintas network melalui inspect elem
 
 Kita coba login dengan username & password ngasal dulu, hasilnya:
 
-(login-ngasal.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/logon/login-ngasal.png)
 
 Pada cookie request header ternyata tersedia 'admin=False', langsung gas ke BurpSuite untuk manipulasi request header tersebut.
 
-(admintrue.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/logon/admin-true.png)
 
 Setelah ubah admin=False menjadi admin=True, begini hasil respon-nya:
 
-(flag.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/CTF-WriteUp/main/picoCTF/logon/flag.png)
 
 picoCTF{th3_c0nsp1r4cy_l1v3s_d1c24fef}
 
