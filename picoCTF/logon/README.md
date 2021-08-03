@@ -32,6 +32,4 @@ Setelah ubah admin=False menjadi admin=True, begini hasil respon-nya:
 
 picoCTF{th3_c0nsp1r4cy_l1v3s_d1c24fef}
 
-=)
-
 ![alt text](https://media.tenor.com/images/196511013b8250ec3b163882ac988bdf/tenor.gif)
